@@ -1,0 +1,8 @@
+server:
+  port: 8101
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://118.178.242.167:3306/springcloudbookstore?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: SpringCloudBookstore
+    password: BeR6PnzNdxXWP8Th
